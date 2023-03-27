@@ -1,0 +1,170 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 100;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syncopate';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/syncopate/v19/pe0pMIuPIYBCpEV5eFdKvtKaAw.ttf) format('truetype');
+}
+body {
+  width: 100%;
+  height: 100%;
+  color: #666666;
+  font-size: lem;
+  font-family: Poppins;
+  line-height: 1.80857;
+  font-weight: normal;
+  overflow-x: hidden;
+}
+.collection_text {
+  width: 100%;
+  height: 50px;
+  background-color: #cf434f;
+  color: #ffffff;
+  text-align: center;
+  font-size: 3em;
+  padding-bottom: 100px;
+  font-family: Poppin;
+  margin-bottom: 75px;
+}
+.about_main .collection_section {
+  width: 100%;
+  float: left;
+  font-size: 2em;
+  color: #0c0116;
+}
+.about_main .new_text {
+  width: 100%;
+  float: left;
+  font-size: 1.2em;
+}
+.about_main .consectetur_text {
+  width: 100%;
+  float: left;
+  font-size: 1.2em;
+  color: #0c0116;
+  font-weight: 400;
+  margin-left: 0px;
+  padding-bottom: 30px;
+}
+.about_main .collection_section_3 {
+  width: 100%;
+  float: left;
+  padding-top: 0px;
+}
+.about_main .racing_shoes {
+  width: 100%;
+  float: left;
+  background-color: #eae7e7;
+  height: auto;
+  padding-top: 70px;
+  background-size: 100%;
+  padding-bottom: 100px;
+  margin-bottom: 100px;
+}
+.about_main .shoes-img3 {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+.about_main img {
+  margin-top: 4em;
+  width: 70%;
+}
+.about_main .sale_text {
+  width: 100%;
+  float: left;
+  font-size: 3em;
+  color: #cf434f;
+  line-height: 75px;
+}
+.collection_section_3 .number_text {
+  width: 100%;
+  float: left;
+  font-size: 3em;
+  color: #cf434f;
+  line-height: 75px;
+}
+.collection_section_3 .seemore {
+  width: 80%;
+  float: left;
+  font-size: 3em;
+  color: #cf434f;
+  font-size: 1.7em;
+  margin-top: 35px;
+}
+.copyright {
+  width: 100%;
+  float: left;
+  font-size: 1em;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px 0px;
+  background-color: #cf434f;
+  font-family: Poppins;
+}
